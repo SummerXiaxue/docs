@@ -1,13 +1,16 @@
 # Test2
-## 测试
-### 文章
+
+### 测试
+
+#### 文章
+
 test2...
 
 测试搜索效果
 
 缓存时间为1天
 
-<img src="_media/icon.svg" style="width:100px;;" />
+<img src="_media/icon.svg" style="width:100px;" />
 
 图片放大
 
