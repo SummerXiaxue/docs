@@ -1,11 +1,12 @@
 <img src="_media/icon.svg" alt="logo " style="zoom:20%;" />
 
-# 爱折腾的小白 <small>Andy</small>
+# 思维即生命 <small>Summer</small>
 
-> 路漫漫其修远兮，吾将上下而求索
+> 思维优化
 
-- 程序员的核心竞争力：学习能力
-- 多看书、多敲代码、搞搞项目护护发
+- 上      主动、预演
+- 广     太极（点圈扩收汇）
+- 深     思考思维本身
 
-[GitHub](https://github.com/wangzhiyuan1221/) [瞄一下](/?id=更新日志) 
+[GitHub](https://github.com/SummerXiaxue/) [瞄一下](/?id=更新日志) 
 
