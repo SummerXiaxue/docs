@@ -6,3 +6,8 @@
   - [Git笔记](note/git-note.md)
   - [雷鸟推荐架构链路图](note/leiniao.md)
   - [ECS混合数仓](note/ECS_note.md)
+  - [知乎客户端埋点流程、模型和平台技术](note/event tracking.md)
+  - [知乎实时数仓实践及架构演进](note/realTimeDB.md)
+  - [Druid 与知乎数据分析平台](note/Druid.md)
+  
+    
