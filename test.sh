@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url="https://chp.shadiao.app/api.php"
+url="https://du.shadiao.app/api.php"
 loveWords=`curl "${url}" `
 nowDate=$(date "+%Y-%m-%d")
 echo $nowDate
